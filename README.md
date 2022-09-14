@@ -1,2 +1,2 @@
-# ThinkingDataScience
-Thinking Data Science - A Data Science Practitioner's Guidebook
+#Thinking Data Science 
+  - A Data Science Practitioner's Guidebook
